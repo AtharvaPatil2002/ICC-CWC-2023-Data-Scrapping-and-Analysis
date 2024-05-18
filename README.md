@@ -120,6 +120,8 @@ ODI-CWC-2023-Analysis
 - Power BI Desktop
 - BrightData(Self made web scrapers)
 ## Usage
+Begin by ensuring all dependencies are installed. Execute data cleaning and preprocessing steps as outlined in CWC analysis preprocessing.ipynb. Perform data transformation in power query of Power BI also create measures according to your preference to use in the dashboard. Prepare individual reports based upon player role and make a seperate team of the tournament report, also prepare tootltip on hover for every instance where a players name is mentioned in all 6 reports. Lastly, explore the insights and visualizations provided in the Power BI dashboard (ICC CWC 2023 Analysis.pbix).
+
 ## Contributors
 
 Atharva Patil

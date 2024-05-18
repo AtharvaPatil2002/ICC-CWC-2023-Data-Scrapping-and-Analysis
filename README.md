@@ -83,6 +83,11 @@ The Power BI dashboard includes various reports based on different player types:
 - Bowler
 - Overall team selection (based on personal selection)
 - Tooltips were added to display the best stats for each player.
+
+<img width="671" alt="All Rounder" src="https://github.com/AtharvaPatil2002/ICC-CWC-2023-Data-Scrapping-and-Analysis/assets/97679489/56a7fa67-d4f6-4f9f-b535-b442df2ef610">
+<img width="383" alt="Final 11" src="https://github.com/AtharvaPatil2002/ICC-CWC-2023-Data-Scrapping-and-Analysis/assets/97679489/8fd82230-a340-4853-873d-e4891907c55a">
+<img width="577" alt="Bowler tooltip in use" src="https://github.com/AtharvaPatil2002/ICC-CWC-2023-Data-Scrapping-and-Analysis/assets/97679489/057716ca-e7fb-4261-9309-1c596f7baff3">
+
 ## Repository Structure
 
 ODI-CWC-2023-Analysis
